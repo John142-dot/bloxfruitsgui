@@ -1,3 +1,4 @@
+-- public for script to work
 local smoll = loadstring(game:HttpGet(https://raw.githubusercontent.com/John142-dot/randomuisourcewarezhubv-/main/UIware.lua''))()
 local idk = smoll.SetupUI({
     Title = "Z⚡ Hub bloxfruit gui"
